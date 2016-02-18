@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Exactly Are Casino Reward Points?
+title: "What Exactly Are Casino Reward Points?""
 ---
 
 
